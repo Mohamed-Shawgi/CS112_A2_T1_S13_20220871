@@ -1,5 +1,15 @@
 # CS112_A2_T1_S13_20220871
-the best project i did so far
+# FACULTY OF COMPUTERS AND AI,
+
+CAIRO UNIVERSITY
+
+CS112: Structured Programming
+
+Year 2022-2024
+## Assignment 2 Task 1
+## Mohamed shawgi azmi mahmoud
+## 20220871
+#the best project i did so far
 #include <iostream>
 #include <vector>
 
